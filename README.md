@@ -6,6 +6,8 @@
 
 ![Bruce GitHub stats](https://github-readme-stats.vercel.app/api?username=BruceDicksonn&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruceDicksonn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies I use on a daily basis
 
 <div style="display:inline_block"><br>
