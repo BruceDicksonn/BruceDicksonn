@@ -1,12 +1,31 @@
 ### Hi there, my name is Bruce Dickson and i'm a front end developer JS 👋
 
+##
+
+<div align="center">
+    
+<img height="150" style="border-radius:50px;" src="https://instagram.ffor11-1.fna.fbcdn.net/v/t51.2885-19/292945488_1848795878660201_6769079341519614523_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ffor11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=WyisvQsl4xwAX_mg6PH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-8uL_bM_hS9pEgOotjUQuBmre9FOrk_OqMv9tG6Rl9pw&oe=62FF29D9&_nc_sid=8fd12b" alt="Rafa-pic"/>
+    
+</div>
+
+<br>
+
+<div align="center">
+
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_brucedickson/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bruce.dickson.357/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-dickson-84960b21b)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dwkpymgkje4tna098e17gzjhh?si=45bd5e1c58504316)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)    
+    
+</div>
 
-![Bruce GitHub stats](https://github-readme-stats.vercel.app/api?username=BruceDicksonn&show_icons=true&theme=radical)
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BruceDicksonn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceDicksonn&layout=compact&langs_count=5&theme=dracula"/>
+</div>
 
 ##  🚀 Skills
 
