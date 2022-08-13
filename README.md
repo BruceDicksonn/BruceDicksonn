@@ -1,4 +1,6 @@
-### Hi there, my name is Bruce Dickson and i'm a front end developer JS 👋
+<div align="center">
+    <h2>Hi there, my name is Bruce Dickson and i'm a front end developer JS 👋</h1>
+</div
 
 ##
 
@@ -7,9 +9,7 @@
 <img height="150" style="border-radius:50px;" src="https://instagram.ffor11-1.fna.fbcdn.net/v/t51.2885-19/292945488_1848795878660201_6769079341519614523_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ffor11-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=WyisvQsl4xwAX_mg6PH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-8uL_bM_hS9pEgOotjUQuBmre9FOrk_OqMv9tG6Rl9pw&oe=62FF29D9&_nc_sid=8fd12b" alt="Rafa-pic"/>
     
 </div>
-
 <br>
-
 <div align="center">
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_brucedickson/)
